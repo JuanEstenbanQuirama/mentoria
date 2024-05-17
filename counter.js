@@ -8,4 +8,6 @@ export function setupCounter(element) {
   setCounter(0)
 }
 
-console.log('hi');
+
+console.log("otro cambio")
+
