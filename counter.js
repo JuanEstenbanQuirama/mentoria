@@ -8,6 +8,6 @@ export function setupCounter(element) {
   setCounter(0)
 }
 
-console.log("bitann la bestia");
 
 console.log("otro cambio")
+
