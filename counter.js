@@ -9,3 +9,5 @@ export function setupCounter(element) {
 }
 
 console.log("bitann la bestia");
+
+console.log("otro cambio")
