@@ -11,3 +11,6 @@ export function setupCounter(element) {
 
 console.log("otro cambio")
 
+array.forEach(element => {
+  
+});
