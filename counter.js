@@ -9,6 +9,7 @@ export function setupCounter(element) {
 }
 
 
+
 console.log("otro cambio")
 
 array.forEach(element => {
@@ -16,3 +17,4 @@ array.forEach(element => {
 });
 console.log("holaaaa");
 alert("luisA MALA")
+
